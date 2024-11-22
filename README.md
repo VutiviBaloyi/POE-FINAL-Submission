@@ -108,8 +108,7 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-- **Developer:** Your Name  
-- **Email:** your.email@example.com  
-- **GitHub:** [your-username](https://github.com/your-username)
+- **Developer:** Vutivi  
+- **Email:** st10387934@imconnect.edu.za.email@example.com  
 
 ---
